@@ -1,6 +1,9 @@
+
 # yt-dlp downloader for Firefox
 
 A Firefox browser extension for downloading media with [`yt-dlp`](https://github.com/yt-dlp/yt-dlp).
+
+> Changes: It downloads the video file to ~/misc/video/<domain name>.
 
 ## Installation
 
